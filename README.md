@@ -1,9 +1,9 @@
 
 # IT244 - Introduction to Database Project
 
-Global Research Collaboration Platform — A database system to manage research partnerships between universities, research centers, and researchers.
+Global Research Collaboration Platform  A DB system to manage research partnerships between universities, research centers, and researchers.
 
-**University:** Saudi Electronic University | **CRN:** 22166
+**University:** Saudi Electronic University | 
 
 ## How to Use
 1. Create the database in MySQL
